@@ -24,7 +24,7 @@ const FooterLogin: React.FC = () => {
       <FooterContainer>
         <FooterContent>Ágil, prático e fácil</FooterContent>
         <FooterContent>Descubra seu problema sem sair de casa</FooterContent>
-        <a href="/Login">
+        <a href="/Servico">
           <Button>Conheça nosso serviço</Button>
         </a>
       </FooterContainer>
